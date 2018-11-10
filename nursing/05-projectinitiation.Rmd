@@ -1,0 +1,16 @@
+# Project Initiation Dynamics
+
+**Summary:** People are generally happy with the project initiation process (PIF) as it alerts the organization that there is an impending proposal. Junior faculty appreciate the assistance and perspective being offered by senior researchers in this process and would like to see this continue. Where things aren't so good relate to the statistics, analytics, and computation resources. If one does not have funding, then this becomes a problem. Others feel that the more experienced technical personnel are not available because their time has been "bought out" by more senior personnel.
+
+## Continuity Throughout the Research Process 
+
+Having access to analytics, statistics, computation, and biological expertise is important though being able to have simultaneous access to each of these professionals (assuming they are separate individuals) would be useful since no on individual has the “whole picture” and must frequently defer to another before being able to proceed past a roadblock.  Initial consultations tend to center around design and general impressions about how to proceed though once the work starts, questions naturally emerge in response to intermediate results that might require input from a number of people. This is particularly true when investigators are leveraging their network and/or past professional relationships in other departments or institutions. They do this because of lack of funding to adequately compensate existing staff unless of course funding can be found within K grants. 
+
+## Estimating Effort
+
+Investigators trust that self-declared experts and collaborators are providing reasonable effort estimates and, more importantly, that they will provide analysis support (or someone from their lab will) although this hasn’t always panned out in a way that was expected. Consequently, effort has been obtained from whatever available sources possible.  The PIF approach does help to initiate the research process and alerts the organization to an impending grant application. The advice one receives as well is generally good though the staff in place for Omics support may not be available for the project or have the current skills to address the issues. 
+
+## Grants
+
+Career Development Awards (K grants) are plentiful and many junior faculty feel that there is adequate support and mentorship on how to write proposals at least at that level. The perceived problem is that of generating the necessary preliminary data for obtaining  an R series grant. Faculty point to difficulties in getting good results from the recent various Microbiome and Metabolomics projects. There is also a concern that pursuing grants of larger scope will be challenging given that the it is difficult to realistically reference formal means of analytics and computation support within proposals. 
+

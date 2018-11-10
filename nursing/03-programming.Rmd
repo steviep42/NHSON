@@ -1,0 +1,25 @@
+# Software Literacy 
+
+**Summary:** Having software literacy is essential to research success. Being able to import/transform data, accomplish analytic tasks, create plots, query databases, and create digital assets will facilitate publication and grant submissions. Many faculty would like to become more self-sufficient. 
+
+## Concerns About Falling Behind
+
+Some faculty have improved their knowledge via self-education or participating in the Big Data class though most want more experience and are frustrated with not being able to fully comprehend the code in published pipelines and/or how one might modify or extend the code to pursue ad-hoc analysis paths. Consequently, they feel "locked in" and limited by their relative lack of programming knowledge and might not then feel confident enough to modify code for fear of "breaking" something. This is especially concerning given that the junior faculty know that they need solid preliminary data before they can apply for an R series grant. At this point being able to conduct and understand analytics results is a barrier to progress. 
+
+## Workshops
+
+A popular approach to learning coding in addition to analysis are domain specific workshops such as those offered for Qiime, dada2, and the 5-day training at UAB. However, there is wide variation reported in the quality and applicability of these workshops with some being somewhat helpful but not at all representative of "real world" data. This was a common complaint especially relative to Microbiome projects wherein the sequencing data coming back from the sequencing center was causing problems with the standard published dada2 pipeline. The UAB workshop was singled out as being particularly helpful since it began with sequencing considerations all the way to full on analysis and result reporting. It has been suggested that 1) The School identify quality training resources and 2) create relationships with them to arrange for on-site or remote training. The [Microbiome Insights group Lab](microbiomeinsights.com) will offer onsite or virtual training sessions on demand for individuals or groups although more work needs to be done to identify specific topics of interest. 
+
+
+## SAS/SPSS vs Open Source Tools
+
+Some faculty have graduate training and exposure to SAS and SPSS and remain attracted to the integrated nature of those tools but realize that R and Python are the more relevant frameworks for the Omics work at hand. To this end, Coursera and EDx courses have been useful to pick up targeted knowledge though it is generally agreed that project driven coding is the best for learning and reinforcing skills. One faculty member suggested making the Big Data class a two-semester sequence with one class being devoted to the key aspects of the language which, in combination with the project-based course, would represent a powerful educational offering. However, some faculty might not wish to devote that much time to this effort though willingly concede that it would be helpful. 
+
+## Attracting Software Literate Students
+
+There is an associated interest in attracting students who possess programming skills or are at the very least enthusiastic about a learning path that involves programming. This is both to facilitate research and to make the student experience more productive since analysis of experimental data types is likely to be a major theme in most thesis projects. It is important to note that such students are not being seen as a substitute for more formal types of support though as part of their educational experience they could work in an internal service center or core to interact with experienced professionals. Again, this is not intended to be a roundabout method of getting research projects accomplished but an attempt at accelerating student knowledge of "real world" analysis applications. 
+
+
+
+
+

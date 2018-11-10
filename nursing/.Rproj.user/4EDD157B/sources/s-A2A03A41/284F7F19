@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541475314080.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1828942318",
+    "id" : "284F7F19",
+    "lastKnownWriteTime" : 1541721418,
+    "last_content_update" : 1541721418270,
+    "path" : "~/Downloads/nursing/02-datamanagement.Rmd",
+    "project_path" : "02-datamanagement.Rmd",
+    "properties" : {
+        "cursorPosition" : "19,677",
+        "scrollLine" : "16"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

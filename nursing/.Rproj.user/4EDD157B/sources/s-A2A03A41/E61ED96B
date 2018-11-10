@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541476303448.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2940466101",
+    "id" : "E61ED96B",
+    "lastKnownWriteTime" : 1541734092,
+    "last_content_update" : 1541734092900,
+    "path" : "~/Downloads/nursing/06-computation.Rmd",
+    "project_path" : "06-computation.Rmd",
+    "properties" : {
+        "cursorPosition" : "21,738",
+        "scrollLine" : "18"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

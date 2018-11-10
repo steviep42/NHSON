@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541474733984.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6157811D",
+    "lastKnownWriteTime" : 1541737471,
+    "last_content_update" : 1541737471374,
+    "path" : "~/Downloads/nursing/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "34,621",
+        "scrollLine" : "33"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

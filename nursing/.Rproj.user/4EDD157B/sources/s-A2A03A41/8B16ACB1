@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541476232846.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8B16ACB1",
+    "lastKnownWriteTime" : 1541718822,
+    "last_content_update" : 1541718822871,
+    "path" : "~/Downloads/nursing/05-projectinitiation.Rmd",
+    "project_path" : "05-projectinitiation.Rmd",
+    "properties" : {
+        "cursorPosition" : "14,607",
+        "scrollLine" : "10"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
