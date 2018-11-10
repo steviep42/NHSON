@@ -1,6 +1,6 @@
 # Software Literacy 
 
-**Summary:** Having software literacy is essential to research success. Being able to import/transform data, accomplish analytic tasks, create plots, query databases, and create digital assets will facilitate publication and grant submissions. Many faculty would like to become more self-sufficient. 
+**Summary:** Having software literacy is essential to research success. Being able to import/transform data, accomplish analytic tasks, create plots, query databases, and create digital assets will facilitate publication and grant submissions. Many faculty would like to become more self-sufficient.  
 
 ## Concerns About Falling Behind
 
@@ -18,7 +18,6 @@ Some faculty have graduate training and exposure to SAS and SPSS and remain attr
 ## Attracting Software Literate Students
 
 There is an associated interest in attracting students who possess programming skills or are at the very least enthusiastic about a learning path that involves programming. This is both to facilitate research and to make the student experience more productive since analysis of experimental data types is likely to be a major theme in most thesis projects. It is important to note that such students are not being seen as a substitute for more formal types of support though as part of their educational experience they could work in an internal service center or core to interact with experienced professionals. Again, this is not intended to be a roundabout method of getting research projects accomplished but an attempt at accelerating student knowledge of "real world" analysis applications. 
-
 
 
 
