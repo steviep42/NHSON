@@ -4,7 +4,7 @@
 
 ## Concerns About Falling Behind
 
-Some faculty have improved their knowledge via self-education or participating in the Big Data class though most want more experience and are frustrated with not being able to fully comprehend the code in published pipelines and/or how one might modify or extend the code to pursue ad-hoc analysis paths. Consequently, they feel "locked in" and limited by their relative lack of programming knowledge and might not then feel confident enough to modify code for fear of "breaking" something. This is especially concerning given that the junior faculty know that they need solid preliminary data before they can apply for an R series grant. At this point being able to conduct and understand analytics results is a barrier to progress. 
+Some faculty have improved their knowledge via self-education or participating in the Big Data class though most want more experience and are frustrated with not being able to fully comprehend the code in published pipelines and/or how one might modify or extend the code to pursue ad-hoc analysis paths. Consequently, they feel "locked in" and limited by their relative lack of the UNIX command line and general programming knowledge and might not then feel confident enough to modify code for fear of "breaking" something. This is especially concerning given that the junior faculty know that they need solid preliminary data before they can apply for an R series grant. At this point being able to conduct and understand analytics results is a barrier to progress.  
 
 ## Workshops
 
@@ -13,12 +13,10 @@ A popular approach to learning coding in addition to analysis are domain specifi
 
 ## SAS/SPSS vs Open Source Tools
 
-Some faculty have graduate training and exposure to SAS and SPSS and remain attracted to the integrated nature of those tools but realize that R and Python are the more relevant frameworks for the Omics work at hand. To this end, Coursera and EDx courses have been useful to pick up targeted knowledge though it is generally agreed that project driven coding is the best for learning and reinforcing skills. One faculty member suggested making the Big Data class a two-semester sequence with one class being devoted to the key aspects of the language which, in combination with the project-based course, would represent a powerful educational offering. However, some faculty might not wish to devote that much time to this effort though willingly concede that it would be helpful. 
+Some faculty have graduate training and exposure to SAS and SPSS and remain attracted to the integrated nature of those tools but realize that R and Python are the more relevant frameworks for the Omics work at hand. To this end, Coursera and Edx courses have been useful to pick up targeted knowledge though it is generally agreed that project driven coding is the best for learning and reinforcing skills. Leveraging Software Carpentry https://software-carpentry.org/lessons style courses is also a reasonable possibility since they offer 1 to 3 days workshops desgined to impart basic computation skills for researchers. One faculty member suggested making the Big Data class a two-semester sequence with one class being devoted to the key aspects of the language which, in combination with the project-based course, would represent a powerful educational offering. However, some faculty might not wish to devote that much time to this effort though willingly concede that it would be helpful. 
 
 ## Attracting Software Literate Students
 
 There is an associated interest in attracting students who possess programming skills or are at the very least enthusiastic about a learning path that involves programming. This is both to facilitate research and to make the student experience more productive since analysis of experimental data types is likely to be a major theme in most thesis projects. It is important to note that such students are not being seen as a substitute for more formal types of support though as part of their educational experience they could work in an internal service center or core to interact with experienced professionals. Again, this is not intended to be a roundabout method of getting research projects accomplished but an attempt at accelerating student knowledge of "real world" analysis applications. 
-
-
 
 
