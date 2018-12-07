@@ -22,7 +22,7 @@ The participants in the interview process were: Linda McCauley, Anne Dunlop, Car
 
 ## Motivations
 
-The original scope of this report was initially focused on addressing the problems associated with managing data and omics-based research though it rapidly became apparent that those interviewed were equally as concerned about addressing and improving relationships with Emory Core facilities. To a lesser extent (although still important) there us frustration associated with being able to conveniently obtain data from the Clinical Data Warehouse and the perceived lack of customer focus exhibited by the health services research personnel. 
+The original scope of this report was focused the problems associated with managing data and conducting omics-based research though it rapidly became apparent that those interviewed were equally as concerned about getting more support from Emory Core facilities. To a lesser extent (although still important) there is frustration with not being able to conveniently obtain data from the Clinical Data Warehouse and the perceived lack of customer focus exhibited by the Health/Research Services personnel. By most outward appearances they appear to want to help though getting timely reports that accurately represent the nature of the request has been challenging. While data security is important, it must be balanced with the research needs of the School and institution at large. Continuing to generically reference "data security" as a reason not to help is unacceptable. In these cases the Research Services personnel should work enthusiastically to enable projects. 
 
 ### The "Omics" Problem
 
