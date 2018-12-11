@@ -1,6 +1,6 @@
 # Project Initiation Dynamics
 
-**Summary:** People are generally happy with the project initiation process (PIF) as it alerts the organization to an impending proposal. Junior faculty appreciate the assistance and perspective being offered by senior researchers in this process and would like to see this continue. Where things aren't so good relate to the availability of statistics, analytics, and computation resources. If one does not have funding, then this becomes a problem. Others feel that the more experienced technical personnel are not available because their time has been "bought out" by more senior personnel.
+**Summary:** People are generally happy with the project initiation process (PIF) as it alerts the organization to an impending proposal. Junior faculty appreciate the assistance and perspective being offered by senior researchers in this process and would like to see this continue. Where things aren't so good relate to the availability of statistics, analytics, and computation resources. If one does not have funding, then this becomes a problem. Others feel that the more experienced technical personnel are not available because their time has been "bought out" by more senior personnel. 
 
 ## Continuity Throughout the Research Process 
 
