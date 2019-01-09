@@ -77,7 +77,7 @@ Researchers would like more detailed upfront estimates of statistics, analytics,
 
 While learning more about Amazon is important, all of the faculty interviewed have expressed disappointment with current School IT support which, as a group, does not seem motivated or interested in helping staff, students, or faculty particularly as it relates to research. Nursing School researchers need desktop assistance particularly as it relates to installing, updating, and running opensource packages such as R, Python, Anaconda and associated opensource tools. The School faculty should not expect IT personnel to actively conduct research or understand the intricacies of software workflows. However, the IT group should be able to troubleshoot package installation conflicts, prerequisites, and perform upgrades necessary to enable base level research exploration. In general most faculty believe that Nursing IT should be incentivized to more aggressively support research including a basic level of cloud orientation. The fact that the IT group is currently not oriented towards such activities should be not an ongoing rationale to keep the status quo.
 
-### High Performance Computing
+### **High Performance Computing**
 
 > The School should identify paths to cloud and command-line literacy via courses and training developed internally and in conjunction with Amazon Web Services. 
 
