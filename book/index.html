@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Nursing School Research Analytics and Computation Report</title>
   <meta name="description" content="This is a summary report of School of Nursing Faculty Interviews">
-  <meta name="generator" content="bookdown 0.7 and GitBook 2.6.7">
+  <meta name="generator" content="bookdown  and GitBook 2.6.7">
 
   <meta property="og:title" content="Nursing School Research Analytics and Computation Report" />
   <meta property="og:type" content="book" />
@@ -25,7 +25,7 @@
 <meta name="author" content="Steve Pittard">
 
 
-<meta name="date" content="2019-01-24">
+<meta name="date" content="2019-03-26">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -36,6 +36,7 @@
 <link rel="next" href="data-management-1.html">
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
@@ -139,14 +140,15 @@
             <section class="normal" id="section-">
 <div id="header">
 <h1 class="title">Nursing School Research Analytics and Computation Report</h1>
-<h4 class="author"><em>Steve Pittard</em></h4>
-<h4 class="date"><em>2019-01-24</em></h4>
+<p class="author"><em>Steve Pittard</em></p>
+<p class="date"><em>2019-03-26</em></p>
 </div>
 <div id="motivations" class="section level1">
 <h1><span class="header-section-number">Chapter 1</span> Motivations</h1>
 <div id="background" class="section level2">
 <h2><span class="header-section-number">1.1</span> Background</h2>
-<p>The original scope of this report was focused primarily on problems associated with managing data and conducting omics-based research though it rapidly became apparent that there was as much concern about getting more support from Emory Core facilities. To a lesser extent (although still important) there is frustration with not being able to conveniently obtain data from the Clinical Data Warehouse and the perceived lack of customer focus exhibited by the Health/Research Services personnel. While data security is important, it must be balanced with the needs of the School and institution at large. As research has been, (and continues to be), reliant upon computation the need for software literacy and quantitative capabilities continues to grow. Core facilities are challenged to produce actionable results using current technologies such as Microbiome and Metabolomics though clients of these facilities want more in terms of explanation and follow up support as they refine results and arrive at publishable conclusions. This report attempts to capture some of the perceived gaps in institutional services and within the School of Nursing itself. Everyone agrees that change must be implemented relative to computation and analytics support to underwrite the ambitious research and publication aims of the School.</p>
+<p>The original scope of this report was focused primarily on problems associated with managing data and conducting omics-based research though it rapidly became apparent that there was as much concern about getting more support from Emory Core facilities. To a lesser extent (although still important) there is frustration with not being able to conveniently obtain data from the Clinical Data Warehouse and the perceived lack of customer focus exhibited by the Health/Research Services personnel. While data security is important, it must be balanced with the needs of the School and institution at large. **By all means, the institution should apply rigorous security to the data warehouse itself but this should not impair reasonable access paths to that information. This will likely require a rethinking of how protected data is offered though it should be done to better facilitate research pipelines.</p>
+<p>As research has been, (and continues to be), reliant upon computation, the need for software literacy and quantitative capabilities continues to grow. Core facilities are challenged to produce actionable results using current technologies such as Microbiome and Metabolomics though clients of these facilities want more in terms of explanation and follow up support as they refine results and arrive at publishable conclusions. This report attempts to capture some of the perceived gaps in institutional services and within the School of Nursing itself. Everyone agrees that change must be implemented relative to computation and analytics support to underwrite the ambitious research and publication aims of the School.</p>
 <div id="the-omics-problem" class="section level3">
 <h3><span class="header-section-number">1.1.1</span> The “Omics” Problem</h3>
 <p>The magnitude and highly dynamic nature of omics-based projects can lead to interesting explorations though ultimately the research should lead to publications in high impact journals and successful grant applications. These goals, however, can be frustrated by uncertainty about how best to manage data, which analytic techniques are most appropriate, where the computation should be performed, and how to effectively determine the biological relevance of the result. This can also be particularly challenging for doctoral students who can sometimes receive conflicting advice on how to structure omics-based thesis projects. Creating smooth workflows using omics-data is essential to progress and publications thus strategies must be developed to effectively deal with this situation.</p>
@@ -176,7 +178,7 @@
 <p>The School should consider use of a tool such as DNANexus or Seven Bridges Genomics. either of which would provide comprehensive support for managing sequencing-based projects, analytics, as well as the convenient addition of self-developed pipelines.</p>
 </blockquote>
 <p>Data management is a very important aspect of analysis and research although the current practices for supporting these activities are less than ideal. A framework is needed to maintain experimental data, code, and notebooks. There are currently three storage solutions (Isilon, Box, and Amazon) at Emory and it isn’t clear to researchers when and why to use them particularly when wanting to perform computation. Intermediate results and data transformations are not maintained alongside original data which impairs reproducibility. The data residing in Emory Box cannot be computed against and must be moved to individual computers (sometimes several) for downstream analysis. <strong>Emory should provide a comparable amount of free Amazon S3 storage to that which is available in Emory Box</strong>. S3 storage can be accessed by compute instances and would thus incentivize users to adopt Amazon cloud services.</p>
-<p>This would address a number of concerns of having “everything in one place” (to the extent that it is possible) along with computational results in a format that would enable reproducibility. Additionally, a solution such as DNANexus would facilitate the integration of genomic data with clinical and other phenotypic data in a secure and compliant environment. While RedCap is useful for maintaining study information, being able to link in sequencing and sample information can be challenging. For a more detailed analysis of this topic please consult section 4) Interaction with Cores.</p>
+<p>This would address a number of concerns of having “everything in one place” (to the extent that it is possible) along with computational results in a format that would enable reproducibility. <strong>Additionally, a solution such as <a href="https://www.dnanexus.com/">DNANexus</a> would facilitate the integration of genomic data with clinical and other phenotypic data in a secure and compliant environment</strong>. DNANexus is a cloud-based genome informatics and data management service. While RedCap is useful for maintaining study information, being able to link in sequencing and sample information can be challenging. For a more detailed analysis of this topic please consult section 4) Interaction with Cores. Note that the Winship Cancer Institute has recently decided to invest in DNANexus and the licensing model would allow for shared use that would enable detailed billing based on organization and department.</p>
 </div>
 <div id="nursing-centric-analytics-omics-resource" class="section level3">
 <h3><span class="header-section-number">1.2.2</span> <strong>Nursing-Centric Analytics ‘Omics’ Resource</strong></h3>
@@ -185,12 +187,11 @@
 </blockquote>
 <p>Availability of professionals who are well-versed in analytics, statistics, and Omics are critical to the research mission of the School. <strong>To this end, the formation of a nursing-centric support group is recommended</strong>. It would provide services for analytics, computing, and interactions with sequencing facilities (where desired) and generally exist for the benefit of investigators. <strong>This entity should be independent of the general Nursing IT group as the aims, workloads, and dynamics of each group are quite different.</strong> Whether this service center is an “official university core” or a formalized group is up for debate although the feedback on this topic is clear in that the group should prioritize Nursing School interests while also being available for salary support via external projects albeit secondarily. Duties would involve assistance with data management, cleaning, preliminary analysis, and ongoing participation in projects. Organizing training and providing orientation to the framework mentioned in item #1 would also be on the menu of services.</p>
 <p>It is important to note that such a resource could be referenced in applications for grants involving large scale processing. This would be evidence of a formal institutional commitment to Nursing analytics. Opinions vary as to the exact composition of this group and/or if it should draw from existing personnel (who aren’t already fully funded). Moreover, one investigator expressed concern about hosting such a group internally as resources might then be arbitrarily redirected to non-research projects or uniquely to projects associated with the most senior faculty. However, it was generally agreed that having more domain specific expertise specifically for the School of Nursing is definitely needed.</p>
-<p>In terms of implementing this resource, it is important to note that research computation presents a set of problems related to though significantly different from the production difficulties associated with Nursing Information Technology. While some possible merger of the two units could be imagined, it should be staged in over time to give the Nursing Omics resource a reasonable chance of success with the added baggage of solving existing problems with Nursing IT.</p>
 </div>
 <div id="software-literacy-and-the-curriculum" class="section level3">
 <h3><span class="header-section-number">1.2.3</span> <strong>Software Literacy And The Curriculum</strong></h3>
 <blockquote>
-<p>Improving general <strong>software literacy</strong> is very important as is being able to import/transform data, accomplish analytic tasks, create plots, query databases, and create digital assets.</p>
+<p>Improving general <strong>software literacy</strong> is essential as is being able to import/transform data, accomplish analytic tasks, create plots, query databases, and create digital assets. There is currently a gap in knowledge that should be addressed via a combination of formal courses and shorter, more focused types of education.</p>
 </blockquote>
 <p>The paper <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4101704/">“Data integration in the era of omics: current and future challenges”</a> discusses the idea that bioinformaticians are drawn from two distinct domains: 1) those who emerging from a computer science or mathematics background who have learned enough about biology to be helpful or 2) trained biologists who, of necessity, have acquired a knowledge of programming to approach their data. While this is an organic pattern that will likely continue it is generally agreed that a redevelopment of teaching practices that favor inter-disciplinary involvement is essential to produce computer savvy investigators.</p>
 <p>Many faculty pursue self-education but are interested in becoming much more self-sufficient with open source tools and the UNIX command line. This can be accomplished via participation in the Big Data course or more specific classes. A larger issue relates to what extent the Cores and LITS are interested in educating users, respectively, on domain specific pipelines and cloud computing ? Or, is it incumbent on the investigator to develop a team to ensure productivity ? Amazon presents a steep learning curve as can understanding results being returned from Cores. Some level of shared responsibility must be assumed in the development of final results. Part of the research process does involve self-education and a willingness to take a deep dive when attempting to adapt literature-based methods to local projects. Software literacy helps provide a common language and vocabulary for research.</p>
@@ -273,7 +274,7 @@ gitbook.start({
 "google": false,
 "linkedin": false,
 "weibo": false,
-"instapper": false,
+"instapaper": false,
 "vk": false,
 "all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
@@ -283,6 +284,10 @@ gitbook.start({
 "size": 2
 },
 "edit": {
+"link": null,
+"text": null
+},
+"history": {
 "link": null,
 "text": null
 },
