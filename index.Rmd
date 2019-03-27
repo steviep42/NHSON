@@ -65,6 +65,7 @@ Availability of professionals who are well-versed in analytics, statistics, and 
 
 It is important to note that such a resource could be referenced in applications for grants involving large scale processing. This would be evidence of a formal institutional commitment to Nursing analytics. Opinions vary as to the exact composition of this group and/or if it should draw from existing personnel (who aren't already fully funded). Moreover, one investigator expressed concern about hosting such a group internally as resources might then be arbitrarily redirected to non-research projects or uniquely to projects associated with the most senior faculty. However, it was generally agreed that having more domain specific expertise specifically for the School of Nursing is definitely needed.
 
+In terms of implementing this resource, it is important to note that research computation presents a unique set of problems related to, though significantly different, from the production difficulties associated with Nursing Information Technology. Recruiting scientifically knowledgeable bioinformaticists is challenging enough without involving them in the resolution of basic IT issues that are better handled with more generic resources. To this end, the informatics resource should receive its own budget that focuses uniquely on the scientific and analytic interests of researchers. 
 
 ### **Software Literacy And The Curriculum**
 
