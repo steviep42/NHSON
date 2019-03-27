@@ -49,7 +49,7 @@ The Emory LITS organization is in the process of rolling out a solution (ETA 201
 
 Note that these represent suggested starting points which can flexibly be implemented. Most, if not all, of these recommendations are based on (or are motivated by) suggestions from faculty who have attempted to address these problems in various ways including leveraging personal, professional, and external relationships. Further discussion is warranted particularly on items relating to the formation of a central resource (1.2.2) and the licensing of a data management and computation framework (1.2.1). The following statements were derived from the more detailed sections (2-6) of this document which in turn were based on the faculty interviews. 
 
-### **Data management** 
+### **Data Management** 
 
 > The School should consider use of a tool such as DNANexus or Seven Bridges Genomics. either of which would provide comprehensive support for managing sequencing-based projects, analytics, as well as the convenient addition of self-developed pipelines.
 
